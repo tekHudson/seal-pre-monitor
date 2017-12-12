@@ -18,60 +18,60 @@ testing:
   quotes:
     - ":wave:"
 
-bestawesometeam:
-  members:
-    - tekHudson
-    - j1mmie
-    - emiller
-    - raderj89
-    - guyathomas
-    - spagolu
+# realtimefeedback:
+#   members:
+#     - tekHudson
+#     - j1mmie
+#     - emiller
+#     - raderj89
+#     - spagolu
+#     - maryelliott25
 
-  channel:
-    "#bestawesometeam"
+#   channel:
+#     "#realtimefeedback"
 
-  exclude_titles:
-    - "[DO NOT MERGE]"
-    - DO NOT MERGE
-    - WIP
+#   exclude_titles:
+#     - "[DO NOT MERGE]"
+#     - DO NOT MERGE
+#     - WIP
 
-  quotes:
-    - I'm pretty sure there's a lot more to life than being really, really, ridiculously good looking. And I plan on finding out what that is.
-    - Where shall we go for lunch?
-    - Where's the data?
-    - If it’s gonna take more than 30 minutes, or it needs deploying - write a card for it and chat to the Product Manager.
-    - Try to pair when possible.
-    - Be considerate to remote workers and follow the Working from home practices https://gov-uk.atlassian.net/wiki/x/Bz_5Bw and https://gov-uk.atlassian.net/wiki/display/CT/Working+from+home+ideas
-    - Who's organising the next team lunch?
-    - If you're not well, don't come in to the office. And get some rest!
-    - Set your Slack status to away or do not disturb so people know whether they can disturb you.
-    - Has your story got points?
-    - Don't forget to assign your face to a card and PR if you're working on it or reviewing.
-    - Don't forget the Jabra and fisheye lens if you're dialing in people!
-    - If Hangouts is being flaky, try Slack calls or appear.in!
-    - Biscuits
-    - Respect each other
-    - Document document document
-    - Change when things don't work
-    - Create a clear, shared vision of our goals
-    - Work at a sustainable and accommodating pace
-    - Make data driven decisions based on user needs
-    - Make good use of people's time
-    - Communicate priorities effectively across the whole team
-    - Monitor progress against our goals
-    - Celebrate progress
-    - Unblock priority WIPs before starting new work
-    - ":eggplant:"
-    - "indeed"
-    - "naming is hard"
-    - "If it's Wednesday, go to Beck's"
-    - "We :heart: Taylor Swift"
-    - "I like to pair, do you?"
-    - "Sam has nice coffee"
-    - "Go team!"
-    - "Now that’s an interesting question"
-    - "$integer = '34'"
-    - "How hot is it? Probably 28"
+#   quotes:
+#     - I'm pretty sure there's a lot more to life than being really, really, ridiculously good looking. And I plan on finding out what that is.
+#     - Where shall we go for lunch?
+#     - Where's the data?
+#     - If it’s gonna take more than 30 minutes, or it needs deploying - write a card for it and chat to the Product Manager.
+#     - Try to pair when possible.
+#     - Be considerate to remote workers and follow the Working from home practices https://gov-uk.atlassian.net/wiki/x/Bz_5Bw and https://gov-uk.atlassian.net/wiki/display/CT/Working+from+home+ideas
+#     - Who's organising the next team lunch?
+#     - If you're not well, don't come in to the office. And get some rest!
+#     - Set your Slack status to away or do not disturb so people know whether they can disturb you.
+#     - Has your story got points?
+#     - Don't forget to assign your face to a card and PR if you're working on it or reviewing.
+#     - Don't forget the Jabra and fisheye lens if you're dialing in people!
+#     - If Hangouts is being flaky, try Slack calls or appear.in!
+#     - Biscuits
+#     - Respect each other
+#     - Document document document
+#     - Change when things don't work
+#     - Create a clear, shared vision of our goals
+#     - Work at a sustainable and accommodating pace
+#     - Make data driven decisions based on user needs
+#     - Make good use of people's time
+#     - Communicate priorities effectively across the whole team
+#     - Monitor progress against our goals
+#     - Celebrate progress
+#     - Unblock priority WIPs before starting new work
+#     - ":eggplant:"
+#     - "indeed"
+#     - "naming is hard"
+#     - "If it's Wednesday, go to Beck's"
+#     - "We :heart: Taylor Swift"
+#     - "I like to pair, do you?"
+#     - "Sam has nice coffee"
+#     - "Go team!"
+#     - "Now that’s an interesting question"
+#     - "$integer = '34'"
+    # - "How hot is it? Probably 28"
 
 # channelname:
 #   members:
